@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:netflixclone/src/widgets/nav_bar_superior.dart';
+import 'package:netflixcloneGit/src/widgets/nav_bar_superior.dart';
 
 
 class CartelPrincipal extends StatelessWidget {

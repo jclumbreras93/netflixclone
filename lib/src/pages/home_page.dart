@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:netflixclone/src/widgets/cartel_principal.dart';
-import 'package:netflixclone/src/widgets/item_img.dart';
-import 'package:netflixclone/src/widgets/item_redondo.dart';
+import 'package:netflixcloneGit/src/widgets/cartel_principal.dart';
+import 'package:netflixcloneGit/src/widgets/item_img.dart';
+import 'package:netflixcloneGit/src/widgets/item_redondo.dart';
 
 class HomePage extends StatelessWidget {
   @override
